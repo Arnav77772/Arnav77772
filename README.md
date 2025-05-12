@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Arnav] — Future Google Engineer</h1>
+<h1 align="center">Hi, I'm Arnav — Future Google Engineer</h1>
 
 <p align="center">
   🇮🇳 18 y/o • BTech CSE Student • Building my tech empire, one line of code at a time
